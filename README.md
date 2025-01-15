@@ -1,4 +1,4 @@
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=yvictor&show_icons=true&count_private=true)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=yvictor&count_private=true&include_all_commits=true)
 ![](https://hit.yhype.me/github/profile?user_id=8242025)
 <!--
 ### Hi there 👋
