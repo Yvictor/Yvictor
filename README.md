@@ -21,7 +21,7 @@ Principal Software Engineer & Architect, building high-performance financial tra
 
 ### Socials
 
-- yvictor3141@gmail.com
+- https://blog.yvictor.com/
 - https://www.linkedin.com/in/yvictor/
 - https://www.threads.com/@yv.ictor
 
