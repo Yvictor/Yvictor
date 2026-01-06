@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Yvictor
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_timezone: Asia/Taipei
 
           # Isometric commit calendar (full year)
