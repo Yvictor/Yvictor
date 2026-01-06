@@ -1,17 +1,26 @@
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=yvictor&count_private=true&include_all_commits=true)
-![](https://hit.yhype.me/github/profile?user_id=8242025)
-<!--
-### Hi there 👋
-**Yvictor/Yvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello
 
-Here are some ideas to get you started:
+Principal Software Engineer & Architect, building high-performance financial trading systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+- [polars_backtest_extension](https://github.com/Yvictor/polars_backtest_extension) - blazingly fast portfolio backtesting for Polars
+
+### Work
+
+- [Shioaji](https://sinotrade.github.io/) - Sinopac cross-platform trading API (sole architect)
+
+### Tools I've Built
+
+- TradingGym - trading & backtesting environment for RL agents
+- polars_ta_extension - Ta-Lib for Polars expressions
+- polars_pbv - price by volume extension for Polars
+- binary_mirror - derive macro for parsing fixed-length binary data
+
+**Tech:** Rust | C++ | Python | TypeScript
+
+### Socials
+
+- yvictor3141@gmail.com
+- https://www.linkedin.com/in/yvictor/
+- https://www.threads.com/@yv.ictor
