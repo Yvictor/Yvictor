@@ -1,4 +1,4 @@
-## Hello
+## Hi, I'm Yvictor
 
 Principal Software Engineer & Architect, building high-performance financial trading systems.
 
